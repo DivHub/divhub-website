@@ -1,0 +1,19 @@
+baseURL = "http://www.divhub.org/"
+title = "DivHub"
+paginate = 6
+theme = "divhub-hugo-theme"
+DefaultContentLanguage = "es"
+
+[params]
+  mainSections = ["blog"]
+  repository = "https://github.com/DivHub/divhub-website/"
+  tagline = "Comunidad de usuarios de lenguajes y frameworks inspirados o derivados de DIV GAMES STUDIO."
+  logo = "img/logo.png"
+  logo_small = "img/logo.png"
+  [params.colors]
+    dark_mode = true
+    primary = "#036"
+    text = "#CCC"
+    link = "#36F"
+    bg = "#015"
+    footer = "#125"
