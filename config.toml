@@ -1,4 +1,4 @@
-baseURL = "http://www.divhub.org/"
+baseURL = "https://divhub.github.io/divhub-website/"
 title = "DivHub"
 paginate = 6
 theme = "divhub-hugo-theme"
